@@ -1,7 +1,7 @@
 name:                find-reverse
-version:             1.0.0
+version:             1.0.1
 github:              "dotKuro/find-reverse"
-license:             AGPL-3
+license:             GPL-3
 author:              "Alexander Kampf"
 
 extra-source-files:
